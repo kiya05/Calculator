@@ -73,10 +73,6 @@ padding: 0px;
 .calculator .equal:hover{
   background-color: rgba(117, 14, 47, 0.803);
 }
-.calculator #num:hover{
-  background-color: rgba(70, 38, 81, 0.442);
-
-}
 .calculator{
   background-color: rgba(155, 106, 161, 0.616);
   padding: 25px;
@@ -86,4 +82,8 @@ padding: 0px;
 
 .calculator #num{
   background-color: rgb(236, 131, 208);
+}
+.calculator #num:hover{
+  background-color: rgba(70, 38, 81, 0.442);
+
 }
