@@ -43,7 +43,7 @@ background-size: cover;
   background-color: rgba(0, 0, 0, 0.777);
   cursor: pointer;
 }
-#extrabtn {
+#operator{
   background-color: rgba(166, 101, 226, 0.688);
 }
 .calculator .digit input{
@@ -61,7 +61,7 @@ font-style: normal;
 padding: 0px;
 
 }
-.calculator #extrabtn:hover{
+.calculator #operator:hover{
   background-color: rgba(227, 76, 209, 0.659);
  
 }
